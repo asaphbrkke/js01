@@ -1,0 +1,21 @@
+body{
+    background: -webkit-linear-gradient(left, #0700ff, #f400ff);
+background: -moz-linear-gradient(left, #0700ff, #f400ff);
+background: -ms-linear-gradient(left, #0700ff, #f400ff);
+background: -o-linear-gradient(left, #0700ff, #f400ff);
+background: linear-gradient(to right, #0700ff, #f400ff);
+}
+
+img{
+    width: 60px;
+}
+
+button{
+    border-radius: 10px;
+color: rgb(0, 0, 0);
+background-color: rgba(255, 255, 255, 0);
+}
+h3{
+    color: white;
+}
+
